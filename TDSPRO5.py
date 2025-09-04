@@ -14,7 +14,7 @@ from datetime import datetime
 from time import sleep
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
-print("Chờ tí đi,đang load file và tool!!!")
+print("Chờ tí đi!!!")
 # Hiệu ứng tải
 for i in range(1, 101):
  sys.stdout.write(f"\r ĐANG LOAD FILE TOOL: {i}% {'█' * (i // 5)}")
